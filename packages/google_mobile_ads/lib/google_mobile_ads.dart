@@ -26,3 +26,4 @@ export 'src/nativetemplates/native_template_font_style.dart';
 export 'src/nativetemplates/native_template_style.dart';
 export 'src/nativetemplates/native_template_text_style.dart';
 export 'src/nativetemplates/template_type.dart';
+export 'src/ad_instance_manager.dart';
